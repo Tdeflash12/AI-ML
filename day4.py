@@ -146,3 +146,5 @@ print(my_dict)
 print(type(my_dict))
 print(my_dict.keys())
 print(my_dict.values())
+
+# the remaining function of dict and how to delete a particular key value pair
