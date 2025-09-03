@@ -99,6 +99,8 @@
 # truth = 5> 4
 # print(truth)
 
+
+# simple project add sub and product
 num1 = int(input("Enter a number:")) 
 num2=int(input("Enter another number"))
 ch= int (input("Enter:\n1.for Addition\n2 for Subtraction\n3.product\n"))
